@@ -40,7 +40,7 @@ I'm Japanese XD
 
 ### ![toms0910](https://minotar.net/helm/03b050c8d6374fa0bffd9ff5e668fbc4/25) toms0910
 
-Infrastructure Engineer
+ネットワーク周り担当 プラグイン関係もやってるよ！
 
 - [x] [GitHub](https://github.com/flan0910)
 - [x] [Twitter](https://twitter.com/i/user/1311606281895960581)
