@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "esbuild lib/index.ts --bundle --outfile=./docs/javascripts/index.js --format=esm  --target=es2021 --minify"
+    "build": "esbuild index.ts --bundle --outfile=../../docs/javascripts/index.js --format=esm  --target=es2021 --minify"
   },
   "keywords": [],
   "author": "",
